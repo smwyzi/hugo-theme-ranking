@@ -25,7 +25,7 @@ jobs:
         python-version: "3.10"
     - name: Install dependencies
       run: |
-        python update.py
+        python update.py ${{ secrets.GITHUB_TOKEN }}
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
