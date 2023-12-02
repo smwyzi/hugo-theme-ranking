@@ -1,7 +1,4 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
-
-name: Update ranking
+name: Update hugo theme ranking
 
 on:
   workflow_dispatch:
@@ -9,7 +6,7 @@ on:
     #- cron:  '0 8 * * *'
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-22.04
 
     steps:
