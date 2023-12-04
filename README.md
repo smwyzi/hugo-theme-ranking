@@ -1,4 +1,4 @@
-Updated at: 2023-12-04 07:03:06
+Updated at: 2023-12-04 08:25:30
 
 ---
 | Theme                                    | Stars                |
@@ -8,9 +8,9 @@ Updated at: 2023-12-04 07:03:06
 | [hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) |                 3861 |
 | [theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv) |                 3252 |
 | [LoveIt](https://github.com/dillonzq/LoveIt) |                 3143 |
-| [hugo-book](https://github.com/alex-shpak/hugo-book) |                 2562 |
+| [hugo-book](https://github.com/alex-shpak/hugo-book) |                 2563 |
 | [hugo-coder](https://github.com/luizdepra/hugo-coder) |                 2470 |
-| [docsy](https://github.com/google/docsy) |                 2341 |
+| [docsy](https://github.com/google/docsy) |                 2342 |
 | [hugo-theme-even](https://github.com/olOwOlo/hugo-theme-even) |                 1978 |
 | [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) |                 1858 |
 | [hugo-paper](https://github.com/nanxiaobei/hugo-paper) |                 1790 |
@@ -28,7 +28,7 @@ Updated at: 2023-12-04 07:03:06
 | [mainroad](https://github.com/Vimux/mainroad) |                  826 |
 | [archie](https://github.com/athul/archie) |                  791 |
 | [blowfish](https://github.com/nunocoracao/blowfish) |                  735 |
-| [hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) |                  717 |
+| [hugo-theme-zzo](https://github.com/zzossig/hugo-theme-zzo) |                  718 |
 | [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme) |                  713 |
 | [docuapi](https://github.com/bep/docuapi) |                  711 |
 | [hugo-theme-cactus-plus](https://github.com/nodejh/hugo-theme-cactus-plus) |                  663 |
@@ -37,7 +37,7 @@ Updated at: 2023-12-04 07:03:06
 | [hugo-xmin](https://github.com/yihui/hugo-xmin) |                  627 |
 | [hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite) |                  626 |
 | [anatole](https://github.com/lxndrblz/anatole) |                  624 |
-| [reveal-hugo](https://github.com/dzello/reveal-hugo) |                  623 |
+| [reveal-hugo](https://github.com/dzello/reveal-hugo) |                  622 |
 | [hugo-bearblog](https://github.com/janraasch/hugo-bearblog) |                  621 |
 | [minimo](https://github.com/MunifTanjim/minimo) |                  544 |
 | [hugo-fresh](https://github.com/StefMa/hugo-fresh) |                  544 |
@@ -84,7 +84,7 @@ Updated at: 2023-12-04 07:03:06
 | [newsroom](https://github.com/onweru/newsroom) |                  258 |
 | [lynx](https://github.com/jpanther/lynx) |                  255 |
 | [hugo-goa](https://github.com/shenoybr/hugo-goa) |                  255 |
-| [hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) |                  253 |
+| [hugo-blog-awesome](https://github.com/hugo-sid/hugo-blog-awesome) |                  254 |
 | [syna](https://github.com/okkur/syna)    |                  253 |
 | [hugo-orbit-theme](https://github.com/aerohub/hugo-orbit-theme) |                  251 |
 | [hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) |                  249 |
